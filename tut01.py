@@ -4,7 +4,7 @@
 
 import os
 
-# enviournmnet variable
+# set enviournmnet variable
 email = os.environ["EMAIL"]
 password = os.environ["PASSWORD"]
 
